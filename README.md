@@ -1,4 +1,4 @@
 # GeekOut
-Verstappen\
-GG.com\
-hello
+Hello, Welcome to GeekOut
+
+May we show you what we are doing in the week to come?
