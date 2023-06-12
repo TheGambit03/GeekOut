@@ -1,2 +1,1 @@
 # GeekOut
-print"Hello World"
